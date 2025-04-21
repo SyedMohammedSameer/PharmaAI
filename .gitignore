@@ -1,1 +1,4 @@
 myenv/
+src/__pycache__/
+conversations/
+data/processed_medicines.pkl

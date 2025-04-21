@@ -48,9 +48,9 @@ class OllamaInterface:
             return f"Error communicating with Ollama: {str(e)}"
     
     def health_check(self):
-        """Check if Ollama service is running."""
+        """Check if Ollama service is running by querying /api/tags."""
         try:
-            response = requests.get(f"{self.base_url}/api/health")
+            response = requests.get(f"{self.base_url}/api/tags")
             return response.status_code == 200
         except:
             return False
