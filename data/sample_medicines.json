@@ -1,0 +1,62 @@
+[
+    {
+      "medicine_id": 1,
+      "name": "Tylenol",
+      "generic_name": "Acetaminophen",
+      "manufacturer": "Johnson & Johnson",
+      "dosage": "500-1000 mg orally every 4-6 hours as needed (max ~3000 mg per day for adults)",
+      "indications": "Mild to moderate pain, fever reduction",
+      "contraindications": "Severe hepatic impairment or active liver disease; hypersensitivity to acetaminophen",
+      "side_effects": "Generally well tolerated; possible nausea, rash; hepatotoxicity in overdose",
+      "mechanism_of_action": "Inhibits prostaglandin synthesis in the central nervous system, leading to analgesic and antipyretic effects (with minimal anti-inflammatory action)",
+      "drug_interactions": "Excessive alcohol use increases risk of liver damage; concurrent use with other acetaminophen-containing products can lead to overdose"
+    },
+    {
+      "medicine_id": 2,
+      "name": "Advil",
+      "generic_name": "Ibuprofen",
+      "manufacturer": "Pfizer",
+      "dosage": "200-400 mg orally every 4-6 hours as needed (max 1200 mg per day for adults)",
+      "indications": "Pain relief, fever reduction, anti-inflammatory",
+      "contraindications": "Active peptic ulcer disease, history of GI bleeding, severe heart failure, during last trimester of pregnancy",
+      "side_effects": "Gastrointestinal distress, dizziness, hypertension, renal impairment with prolonged use",
+      "mechanism_of_action": "Non-selective inhibition of cyclooxygenase (COX) enzymes, blocking prostaglandin synthesis and reducing inflammation, pain, and fever",
+      "drug_interactions": "Increased bleeding risk with anticoagulants, potential renal toxicity with ACE inhibitors or diuretics, may decrease effects of some antihypertensives"
+    },
+    {
+      "medicine_id": 3,
+      "name": "Lipitor",
+      "generic_name": "Atorvastatin",
+      "manufacturer": "Pfizer",
+      "dosage": "10-80 mg once daily, typically in the evening",
+      "indications": "Hypercholesterolemia, mixed dyslipidemia, primary prevention of cardiovascular disease in high-risk patients",
+      "contraindications": "Active liver disease, pregnancy, breastfeeding, concomitant use with strong CYP3A4 inhibitors",
+      "side_effects": "Muscle pain/weakness (myalgia), liver enzyme elevations, headache, joint pain, potential risk of developing type 2 diabetes",
+      "mechanism_of_action": "Inhibits HMG-CoA reductase, the rate-limiting enzyme in cholesterol biosynthesis, leading to increased LDL receptor expression and reduced blood cholesterol levels",
+      "drug_interactions": "Increased risk of myopathy with gemfibrozil, cyclosporine, erythromycin, clarithromycin; grapefruit juice can increase plasma concentration"
+    },
+    {
+      "medicine_id": 4,
+      "name": "Zoloft",
+      "generic_name": "Sertraline",
+      "manufacturer": "Pfizer",
+      "dosage": "50-200 mg once daily, usually in the morning",
+      "indications": "Major depressive disorder, panic disorder, PTSD, OCD, social anxiety disorder, premenstrual dysphoric disorder",
+      "contraindications": "Use of MAOIs within 14 days, concomitant pimozide, known hypersensitivity to sertraline",
+      "side_effects": "Nausea, diarrhea, insomnia, sexual dysfunction, increased anxiety (initially), dry mouth, dizziness",
+      "mechanism_of_action": "Selective serotonin reuptake inhibitor (SSRI) that blocks the reuptake of serotonin at the presynaptic membrane, increasing serotonin levels in the synaptic cleft",
+      "drug_interactions": "Risk of serotonin syndrome with other serotonergic drugs, increased bleeding risk with NSAIDs or anticoagulants, may affect metabolism of drugs processed by CYP2D6"
+    },
+    {
+      "medicine_id": 5,
+      "name": "Amoxil",
+      "generic_name": "Amoxicillin",
+      "manufacturer": "GlaxoSmithKline",
+      "dosage": "250-500 mg every 8 hours or 500-875 mg every 12 hours, depending on infection severity",
+      "indications": "Bacterial infections including ear, nose, throat, genitourinary tract, skin, and lower respiratory tract infections",
+      "contraindications": "Known hypersensitivity to penicillins, history of penicillin-associated cholestatic jaundice/hepatic dysfunction",
+      "side_effects": "Diarrhea, rash, nausea, vomiting, allergic reactions (ranging from mild rash to anaphylaxis)",
+      "mechanism_of_action": "Beta-lactam antibiotic that inhibits bacterial cell wall synthesis by binding to penicillin-binding proteins, causing cell lysis and death",
+      "drug_interactions": "Probenecid decreases renal excretion; may reduce effectiveness of oral contraceptives; allopurinol increases risk of skin rash"
+    }
+  ]
